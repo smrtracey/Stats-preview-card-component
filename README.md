@@ -12,9 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with) 
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/smrtracey/stats-preview-card-component.git)
+- Solution URL: [Github Page](https://github.com/smrtracey/stats-preview-card-component.git)
 
 ## My process
 
@@ -46,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.seantraceycsse.com)
+- Website - [Sean Tracey](https://www.seantraceycsse.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/smrtracey)
 
 
