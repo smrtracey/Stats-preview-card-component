@@ -44,6 +44,6 @@ Users should be able to:
 ## Author
 
 - Website - [Sean Tracey](https://www.seantraceycsse.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/smrtracey)
+- Frontend Mentor - [@smrtracey](https://www.frontendmentor.io/profile/smrtracey)
 
 
